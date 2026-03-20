@@ -1,4 +1,4 @@
-name = "sim-worker-proxy"
+name = "custom-api-mirror"
 main = "worker/index.js"
 compatibility_date = "2026-01-29"
 type = "javascript"
