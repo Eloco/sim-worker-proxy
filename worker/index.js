@@ -95,3 +95,4 @@ function buildStealthHeaders(originalHeaders, targetHost) {
   headers.delete('X-Forwarded-For');
   return headers;
 }
+
